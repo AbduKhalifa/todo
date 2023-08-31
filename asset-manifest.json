@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ec37b670.css",
+    "main.js": "./static/js/main.d3bab566.js",
+    "static/media/all.jpg": "./static/media/all.bb434ebf7faf9a94876d.jpg",
+    "static/media/intro-image.jpg": "./static/media/intro-image.4cbef98d9ac9ee09ec2b.jpg",
+    "static/media/working.jpg": "./static/media/working.d49c231154346aa491af.jpg",
+    "static/media/studying.jpg": "./static/media/studying.dc4756773a9422aed569.jpg",
+    "static/media/training.jpg": "./static/media/training.85a43f9c2f31fd0a9b3f.jpg",
+    "static/media/empty.png": "./static/media/empty.c0917ce1104e03fe063c.png",
+    "index.html": "./index.html",
+    "main.ec37b670.css.map": "./static/css/main.ec37b670.css.map",
+    "main.d3bab566.js.map": "./static/js/main.d3bab566.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec37b670.css",
+    "static/js/main.d3bab566.js"
+  ]
+}
